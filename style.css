@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+
+
+.bluebook{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    font: 15px DM sans, sans-serif;
+}
+
+#profile{
+    border: 5px solid #555;
+    width: 500px;
+}
+
+#profile:hover{
+    border: 5px solid orange;
+    cursor: pointer;
+}
+
+
+.map{
+    display: flex;
+    justify-content: center;
+}
